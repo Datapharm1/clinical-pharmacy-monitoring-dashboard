@@ -1,0 +1,4 @@
+.env
+data/clinic_data.csv
+__pycache__/
+*.pyc

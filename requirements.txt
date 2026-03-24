@@ -1,0 +1,5 @@
+These are the Packages needed for the project
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
